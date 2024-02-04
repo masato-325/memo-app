@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import MemoInput from './MemoInput';
+import MemoList from './MemoList';
 
 
 function App() {
